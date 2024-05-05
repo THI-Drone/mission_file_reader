@@ -1,9 +1,5 @@
 #pragma once
 
-#include <chrono>
-#include <functional>
-#include <memory>
-#include <string>
+#include <iostream>
 
-#include "common_package/common_node.hpp"
-#include "rclcpp/rclcpp.hpp"
+#include "mission_definition_file.hpp"
